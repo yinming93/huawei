@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>20181129| 5G is Now, 5G is Now-Bring MBB to a New Horizon</title>
+	<title>20181206| 5G is On-Bring MBB to a New Horizon</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" />
     <script src="jquery-1.8.2.min.js"></script>
@@ -94,17 +94,25 @@
 <div class="main">
 	<img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t1.png" alt="">
 
-	<a href="http://www.cnii.com.cn/5G/2018-11/22/content_2121519.htm"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q1.jpg" alt=""></a>
-	<a href="http://www.c114.com.cn/news/126/a1071728.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q2.jpg" alt=""></a>
-	<a href="http://www.c114.com.cn/news/126/a1071607.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q3.jpg" alt=""></a>
-	<a href="https://huaweihub.com.au/huawei-and-spark-unveil-world-first-5g-trial-network-with-separated-access-and-core/?doing_wp_cron=1543129309.6305820941925048828125&from=groupmessage&isappinstalled=0"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q4.jpg" alt=""></a>
-	<a href="https://www.huawei.com/cn/press-events/news/2018/11/5g-home-broadband-capability-london"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q5.jpg" alt=""></a>
+	<a href="http://www.c114.com.cn/news/126/a1073288.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q1.jpg" alt=""></a>
+	<a href="https://www.lightreading.com/mobile/5g/intel-and-huawei-achieve-worlds-first-26ghz-5g-interoperability-testing-under-sa/d/d-id/748065?from=timeline&isappinstalled=0"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q2.jpg" alt=""></a>
+	<a href="https://mp.weixin.qq.com/s/9_YBoGr_0ZrzntgSuHzuRg"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q3.jpg" alt=""></a>
+	<a href="http://m.koreatimes.co.kr/pages/article.asp?newsIdx=259642&from=timeline&isappinstalled=0"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q4.jpg" alt=""></a>
+	<a href="http://www.cww.net.cn/article?id=443325"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q5.jpg" alt=""></a>
+	<a href="http://www.cww.net.cn/article?id=443584"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q6.jpg" alt=""></a>
 
 </div>
 <!-- 市场进展 -->
 <div class="ban one">
 	<img class="begin" src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t2.png" alt="">
 	
+	<a href="http://www.c114.com.cn/news/126/a1073288.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_102.jpg" alt=""></a>
+	<a href="https://www.lightreading.com/mobile/5g/intel-and-huawei-achieve-worlds-first-26ghz-5g-interoperability-testing-under-sa/d/d-id/748065?from=timeline&isappinstalled=0"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_103.jpg" alt=""></a>
+	<a href="https://mp.weixin.qq.com/s/9_YBoGr_0ZrzntgSuHzuRg"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_104.jpg" alt=""></a>
+	<a href="http://m.koreatimes.co.kr/pages/article.asp?newsIdx=259642&from=timeline&isappinstalled=0"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_105.jpg" alt=""></a>
+	<a href="http://www.cww.net.cn/article?id=443325"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_106.jpg" alt=""></a>
+	<a href="http://www.cww.net.cn/article?id=443584"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_107.jpg" alt=""></a>
+
 	<a href="http://www.cnii.com.cn/5G/2018-11/22/content_2121519.htm"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_94.jpg" alt=""></a>
 	<a href="http://www.c114.com.cn/news/126/a1071728.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_95.jpg" alt=""></a>
 	<a href="http://www.c114.com.cn/news/126/a1071607.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_96.jpg" alt=""></a>
@@ -203,6 +211,10 @@
 <div class="ban two">
 	<img class="begin" src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t3.png" alt="">
 
+	<a href="http://www.c114.com.cn/news/126/a1073131.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_78.jpg" alt=""></a>
+	<a href="http://www.c114.com.cn/news/17/a1072963.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_79.jpg" alt=""></a>
+	<a href="http://www.cnii.com.cn/5G/2018-12/04/content_2123590.htm"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_80.jpg" alt=""></a>
+
 	<a href="http://www.cww.net.cn/article?id=443078"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_74.jpg" alt=""></a>
 	<a href="http://www.c114.com.cn/news/117/a1072433.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_75.jpg" alt=""></a>
 	<a href="http://www.c114.com.cn/news/22/c19429.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_76.jpg" alt=""></a>
@@ -283,6 +295,8 @@
 <div class="ban three">
 	<img class="begin" src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t4.png" alt="">
 
+	<a href="http://w3m.huawei.com/mcloud/mag/FreeProxyForText/kc_share/espaceShare/espaceShare.html?urlType=02&f_id=1882995&topic_id=1003700"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/r34.jpg" alt=""></a>
+
 	<a href="http://w3m.huawei.com/mcloud/mag/FreeProxyForText/kc_share/espaceShare/espaceShare.html?urlType=02&f_id=1881115&topic_id=1003700"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/r33.jpg" alt=""></a>
 
 	<a href="http://w3m.huawei.com/mcloud/mag/FreeProxyForText/kc_share/espaceShare/espaceShare.html?urlType=02&f_id=1878375&topic_id=1003700"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/r32.jpg" alt=""></a>
@@ -340,6 +354,9 @@
 <!-- 应用趋势 -->
 <div class="ban four">
 	<img class="begin" src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t5.png" alt="">
+
+	<a href="http://www.c114.com.cn/news/22/c19456.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y64.jpg" alt=""></a>
+	<a href="http://www.cnii.com.cn/industry/2018-12/04/content_2123617.htm"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y65.jpg" alt=""></a>
 
 	<a href="http://www.cww.net.cn/article?id=442783"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y62.jpg" alt=""></a>
 	<a href="http://www.cww.net.cn/article?id=443157"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y63.jpg" alt=""></a>
@@ -504,8 +521,8 @@ wx.config({
 		  });
 		 wx.ready(function () {
 		var shareinfo={
-		 	 title: '20181129| 5G is Now, 5G is Now-Bring MBB to a New Horizon',
-		      desc: 'MBBF专题；全球5G之城视频合集；华为22个5G商用合同，10000套5G基站发货；华为是目前唯一真正的5G供应商;',
+		 	 title: '20181206| 5G is On-Bring MBB to a New Horizon',
+		      desc: '联合Intel完成2.6GHz IoDT测试；LG U+已建成4100个5G基站；韩国宣布5G商用；中国移动合作伙伴大会',
 		      link: 'http://ym.2dreamchaser.com/yin/2018/huawei/',
 		      imgUrl: 'http://ym.2dreamchaser.com/yin/2018/huawei/share.jpg'
 		  }
