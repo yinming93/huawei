@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>20190110| 5G is On-Bring MBB to a New Horizon</title>
+	<title>20190117| 5G is On-Bring MBB to a New Horizon</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" />
     <script src="jquery-1.8.2.min.js"></script>
@@ -95,10 +95,10 @@
 <div class="main">
 	<img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t1.png" alt="">
 
-	<a href="http://www.cww.net.cn/article?id=445368"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q1.jpg" alt=""></a>
-	<a href="http://www.cnii.com.cn/telecom/2019-01/10/content_2132771.htm"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q2.jpg" alt=""></a>
-	<a href="https://www.mobileworldlive.com/featured-content/home-banner/5g-to-take-centre-stage-at-ces-2019/"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q3.jpg" alt=""></a>
-	<a href="https://www.rcrwireless.com/20190108/5g/italian-government-approves-5g-trial-cagliari"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q4.jpg" alt=""></a>
+	<a href="http://news.cctv.com/2019/01/10/ARTICgAKe3EV0efNOQEYTJCC190110.shtml"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q1.jpg" alt=""></a>
+	<a href="http://www.cww.net.cn/article?id=445590"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q2.jpg" alt=""></a>
+	<a href="https://mp.weixin.qq.com/s/ReX9aaU-Li8Uz79jzh-S7Q"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q3.jpg" alt=""></a>
+	<a href="https://mp.weixin.qq.com/s/8Y_LJMi4g-QLXBx4p4GQmQ"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q4.jpg" alt=""></a>
 	<!-- <a href="http://www.cctime.com/html/2018-12-6/1423068.htm"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q5.jpg" alt=""></a> -->
 	<!-- <a href="http://www.cww.net.cn/article?id=443584"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q6.jpg" alt=""></a> -->
 
@@ -107,6 +107,11 @@
 <div class="ban one">
 	<img class="begin" src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t2.png" alt="">
 	
+	<a href="https://mp.weixin.qq.com/s/8Y_LJMi4g-QLXBx4p4GQmQ"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_130.jpg" alt=""></a>
+	<a href="http://news.cctv.com/2019/01/10/ARTICgAKe3EV0efNOQEYTJCC190110.shtml"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_127.jpg" alt=""></a>
+	<a href="http://www.cww.net.cn/article?id=445590"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_128.jpg" alt=""></a>
+	<a href="https://mp.weixin.qq.com/s/ReX9aaU-Li8Uz79jzh-S7Q"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_129.jpg" alt=""></a>
+
 	<a href="http://www.cww.net.cn/article?id=445368"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_124.jpg" alt=""></a>
 	<a href="http://www.cnii.com.cn/telecom/2019-01/10/content_2132771.htm"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_125.jpg" alt=""></a>
 	<a href="https://www.mobileworldlive.com/featured-content/home-banner/5g-to-take-centre-stage-at-ces-2019/"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_126.jpg" alt=""></a>
@@ -235,6 +240,10 @@
 <!-- 产业动态 -->
 <div class="ban two">
 	<img class="begin" src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t3.png" alt="">
+
+	<a href="http://www.gov.cn/xinwen/2019-01/13/content_5357463.htm"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_92.jpg" alt=""></a>
+	<a href="https://36kr.com/p/5171657.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_93.jpg" alt=""></a>
+	<a href="http://www.c114.com.cn/market/5305/a1076862.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_94.jpg" alt=""></a>
 
 	<a href="http://www.cww.net.cn/article?id=445392"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_90.jpg" alt=""></a>
 	<a href="https://www.rcrwireless.com/20190103/5g/qatar-awards-5g-frequencies-under-new-unified-telecom-licenses"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_91.jpg" alt=""></a>
@@ -402,6 +411,10 @@
 <!-- 应用趋势 -->
 <div class="ban four">
 	<img class="begin" src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t5.png" alt="">
+
+	<a href="http://www.c114.com.cn/news/116/a1077034.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y82.jpg" alt=""></a>
+	<a href="http://www.c114.com.cn/news/52/a1076989.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y83.jpg" alt=""></a>
+	<a href="http://www.cctime.com/html/2019-1-11/1429522.htm"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y84.jpg" alt=""></a>
 
 	<a href="http://www.c114.com.cn/news/118/a1076385.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y79.jpg" alt=""></a>
 	<a href="http://www.cww.net.cn/article?id=445400"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y80.jpg" alt=""></a>
@@ -590,8 +603,8 @@ wx.config({
 		  });
 		 wx.ready(function () {
 		var shareinfo={
-		 	 title: '20190110| 5G is On-Bring MBB to a New Horizon',
-		      desc: '5G年度盘点；首个“5G新媒体平台”开建;【上市】5G快速规模部署利器32TRxMM；GSA报告:全球5G商用及测试进展汇总；',
+		 	 title: '20190117| 5G is On-Bring MBB to a New Horizon',
+		      desc: '中国将发放5G临时牌照；5G春晚直播启动会；华为5G首席科学家童文博士：2019年5G展望；',
 		      link: 'http://ym.2dreamchaser.com/yin/2018/huawei/',
 		      imgUrl: 'http://ym.2dreamchaser.com/yin/2018/huawei/share.jpg'
 		  }
