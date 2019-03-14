@@ -7,7 +7,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>20190307| 5G is On-Bring MBB to a New Horizon</title>
+	<title>20190314| 5G is On-Bring MBB to a New Horizon</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" />
     <script src="jquery-1.8.2.min.js"></script>
@@ -95,21 +95,27 @@
 <div class="main">
 	<img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t1.png" alt="">
 
-	<a href="https://www.huawei.com/cn/press-events/news/2019/2/huawei-5g-simplified-solution"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q1.jpg" alt=""></a>
-	<a href="http://m.c114.com.cn/w126-1080763.html?from=timeline&isappinstalled=0"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q2.jpg" alt=""></a>
-	<a href="https://www.huawei.com/cn/press-events/news/2019/2/huawei-vodafone-superior-5g-experience-live-network-5g-devices"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q3.jpg" alt=""></a>
-	<a href="https://mp.weixin.qq.com/s/JnP_yNXsvFfEsn8YTipaWQ"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q4.jpg" alt=""></a>
-	<a href="http://m.c114.com.cn/w119-1080817.html?from=timeline"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q5.jpg" alt=""></a>
-	<a href="https://www.toutiao.com/i6664870027830755851/?tt_from=weixin&utm_campaign=client_share&wxshare_count=3&from=timeline&timestamp=1551786014&app=news_article&utm_source=weixin&iid=64594128915&utm_medium=toutiao_android&group_id=6664870027830755851&pbid=6664681132397594125"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q6.jpg" alt=""></a>
+	<a href="http://m.focus.sinorusfocus.com/p/9813.html?from=timeline"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q1.jpg" alt=""></a>
+	<a href="https://m.weibo.cn/status/4348617731523554?sourceType=weixin&wm=9006_2001&featurecode=newtitle&from=singlemessage&isappinstalled=0"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q2.jpg" alt=""></a>
+	<a href="http://www.c114.com.cn/news/126/a1081952.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q3.jpg" alt=""></a>
+	<a href="https://www.mobileworldlive.com/huawei-2018-19-media-updates/massive-mimo-key-to-simplified-5g-networks/"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q4.jpg" alt=""></a>
+	<a href="http://www.channelpostmea.com/2019/03/12/viva-announces-nationwide-5g-service-huawei-kuwait/"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q5.jpg" alt=""></a>
+	<!-- <a href="https://www.toutiao.com/i6664870027830755851/?tt_from=weixin&utm_campaign=client_share&wxshare_count=3&from=timeline&timestamp=1551786014&app=news_article&utm_source=weixin&iid=64594128915&utm_medium=toutiao_android&group_id=6664870027830755851&pbid=6664681132397594125"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q6.jpg" alt=""></a>
 	<a href="http://www.cctime.com/html/2019-3-2/1435636.htm"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q7.jpg" alt=""></a>
 	<a href="http://www.cww.net.cn/article?id=448133&from=timeline&isappinstalled=0"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q8.jpg" alt=""></a>
 	<a href="http://m.c114.com.cn/w126-1080737.html?from=timeline"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/q9.jpg" alt=""></a>
-
+ -->
 </div>
 <!-- 市场进展 -->
 <div class="ban one">
 	<img class="begin" src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t2.png" alt="">
 	
+	<a href="http://m.focus.sinorusfocus.com/p/9813.html?from=timeline"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_154.jpg" alt=""></a>
+	<a href="https://m.weibo.cn/status/4348617731523554?sourceType=weixin&wm=9006_2001&featurecode=newtitle&from=singlemessage&isappinstalled=0"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_155.jpg" alt=""></a>
+	<a href="http://www.channelpostmea.com/2019/03/12/viva-announces-nationwide-5g-service-huawei-kuwait/"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_156.jpg" alt=""></a>
+	<a href="http://www.c114.com.cn/news/126/a1081952.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_157.jpg" alt=""></a>
+	<a href="https://www.mobileworldlive.com/huawei-2018-19-media-updates/massive-mimo-key-to-simplified-5g-networks/"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_158.jpg" alt=""></a>
+
 	<a href="https://www.huawei.com/cn/press-events/news/2019/2/huawei-5g-simplified-solution"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_145.jpg" alt=""></a>
 	<a href="http://m.c114.com.cn/w126-1080763.html?from=timeline&isappinstalled=0"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_146.jpg" alt=""></a>
 	<a href="https://www.huawei.com/cn/press-events/news/2019/2/huawei-vodafone-superior-5g-experience-live-network-5g-devices"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/w_147.jpg" alt=""></a>
@@ -271,6 +277,9 @@
 <div class="ban two">
 	<img class="begin" src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t3.png" alt="">
 
+	<a href="http://www.cww.net.cn/article?id=448205"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_102.jpg" alt=""></a>
+	<a href="http://www.c114.com.cn/4app/3542/a1081956.html"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_103.jpg" alt=""></a>
+
 	<a href="http://www.nationmultimedia.com/detail/Economy/30365240?from=timeline"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_101.jpg" alt=""></a>
 
 	<a href="https://www.rcrwireless.com/20190208/5g/swiss-regulator-raises-379-million-5g-spectrum-auction"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/e_99.jpg" alt=""></a>
@@ -386,9 +395,11 @@
 <div class="ban three">
 	<img class="begin" src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t4.png" alt="">
 	
-	<a href="http://w3m.huawei.com/mcloud/mag/FreeProxyForText/kc_share/espaceShare/espaceShare.html?urlType=02&f_id=1900742&topic_id=1003700"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/r41.jpg" alt=""></a>
-	<a href="http://w3m.huawei.com/mcloud/mag/FreeProxyForText/kc_share/espaceShare/espaceShare.html?urlType=02&f_id=1900834&topic_id=1003700"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/r42.jpg" alt=""></a>
 	<a href="http://w3m.huawei.com/mcloud/mag/FreeProxyForText/kc_share/espaceShare/espaceShare.html?urlType=02&f_id=1792712&topic_id=1003700"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/r43.jpg" alt=""></a>
+	<a href="http://w3m.huawei.com/mcloud/mag/FreeProxyForText/kc_share/espaceShare/espaceShare.html?urlType=02&f_id=1900834&topic_id=1003700"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/r42.jpg" alt=""></a>
+	<a href="http://w3m.huawei.com/mcloud/mag/FreeProxyForText/kc_share/espaceShare/espaceShare.html?urlType=02&f_id=1900742&topic_id=1003700"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/r41.jpg" alt=""></a>
+	
+	
 
 	<a href="http://w3m.huawei.com/mcloud/mag/FreeProxyForText/kc_share/espaceShare/espaceShare.html?urlType=02&f_id=1894015&topic_id=1003700"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/r40.jpg" alt=""></a>
 
@@ -458,6 +469,9 @@
 <!-- 应用趋势 -->
 <div class="ban four">
 	<img class="begin" src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/t5.png" alt="">
+
+	<a href="http://www.cww.net.cn/article?id=448711"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y97.jpg" alt=""></a>
+	<a href="http://www.cnii.com.cn/5G/2019-03/11/content_2148247.htm"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y98.jpg" alt=""></a>
 
 	<a href="http://m.c114.com.cn/w126-1080763.html?from=timeline&isappinstalled=0"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y93.jpg" alt=""></a>
 	<a href="http://m.c114.com.cn/w126-1081192.html?from=timeline"><img src="https://ym-1251519258.cos.ap-shanghai.myqcloud.com/huawei/imgs/y94.jpg" alt=""></a>
@@ -669,8 +683,8 @@ wx.config({
 		  });
 		 wx.ready(function () {
 		var shareinfo={
-		 	 title: '20190307| 5G is On-Bring MBB to a New Horizon',
-		      desc: '华为5G支持两会系列；华为发布5G极简解决方案；Cloud X为5G商用提供价值业务；巴展5G高层胶片/主打胶片/5G展岛外场材料/5G新闻汇总；',
+		 	 title: '20190314| 5G is On-Bring MBB to a New Horizon',
+		      desc: 'Massive MIMO是5G极简网络之本； 5G商用网标准基站在杭州开通；VIVA announces nationwide 5G service with Huawei in Kuwait',
 		      link: 'http://ym.2dreamchaser.com/yin/2018/huawei/',
 		      imgUrl: 'http://ym.2dreamchaser.com/yin/2018/huawei/share.jpg'
 		  }
